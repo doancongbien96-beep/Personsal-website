@@ -17,6 +17,5 @@ Text is in index.html; design and responsive breakpoints are in styles.css. Add 
 Publish main / root in Settings > Pages. Relative asset paths support the /Personsal-website/ project URL. Pages is configured to deploy directly from main / root; no custom workflow is required.
 
 
-
-## CV update
-User-provided CV supports professional roles, degrees, technical skills, training and selected recognition. PhD focus follows user introduction. No raw CV, birth date, phone number or referee details are published. Photo gallery is prepared locally and pending explicit public-photo approval.
+## Gallery and CV update
+The user supplied a CV and a working-photo folder on 25 November 2026. Professional roles, education, tools, training and selected awards now follow that CV; PhD focus follows the user introduction. Employer responsibilities are summarized at a general professional level. No raw CV, date of birth, telephone number, referee contacts, internal documents, monitoring values or award ranking statistics are published. Six user-selected-folder photos illustrate fieldwork and professional activities; captions do not assert dates, locations, personal identities or project outcomes. Web copies are resized and re-encoded without EXIF/GPS metadata. Originals are unchanged. Gallery includes native modal viewing, keyboard navigation, lazy loading and descriptive alt text.
