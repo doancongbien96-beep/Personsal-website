@@ -15,3 +15,8 @@ Text is in index.html; design and responsive breakpoints are in styles.css. Add 
 
 ## GitHub Pages
 Publish main / root in Settings > Pages. Relative asset paths support the /Personsal-website/ project URL. Pages is configured to deploy directly from main / root; no custom workflow is required.
+
+
+
+## CV update
+User-provided CV supports professional roles, degrees, technical skills, training and selected recognition. PhD focus follows user introduction. No raw CV, birth date, phone number or referee details are published. Photo gallery is prepared locally and pending explicit public-photo approval.
