@@ -14,8 +14,9 @@ Responsive, buildless English portfolio. Open index.html or serve this directory
 Text is in index.html; design and responsive breakpoints are in styles.css. Add only publicly shareable, verified material. Contact routes to LinkedIn; there is no fake form or invented email.
 
 ## GitHub Pages
-Publish main / root in Settings > Pages. Relative asset paths support the /Personsal-website/ project URL. Pages is configured to deploy directly from main / root; no custom workflow is required.
+**Live website:** [Doan Cong Bien — Personal Portfolio](https://doancongbien96-beep.github.io/Personsal-website/)
 
+Publish main / root in Settings > Pages. Relative asset paths support the /Personsal-website/ project URL. Pages is configured to deploy directly from main / root; no custom workflow is required.
 
 ## Gallery and CV update
 The user supplied a CV and a working-photo folder on 25 November 2026. Professional roles, education, tools, training and selected awards now follow that CV; PhD focus follows the user introduction. Employer responsibilities are summarized at a general professional level. No raw CV, date of birth, telephone number, referee contacts, internal documents, monitoring values or award ranking statistics are published. Six user-selected-folder photos illustrate fieldwork and professional activities; captions do not assert dates, locations, personal identities or project outcomes. Web copies are resized and re-encoded without EXIF/GPS metadata. Originals are unchanged. Gallery includes native modal viewing, keyboard navigation, lazy loading and descriptive alt text.
