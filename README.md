@@ -14,4 +14,4 @@ Responsive, buildless English portfolio. Open index.html or serve this directory
 Text is in index.html; design and responsive breakpoints are in styles.css. Add only publicly shareable, verified material. Contact routes to LinkedIn; there is no fake form or invented email.
 
 ## GitHub Pages
-Publish main / root in Settings > Pages. Relative asset paths support the /Personsal-website/ project URL. If GitHub Actions is selected as the Pages source, the included workflow deploys the three public assets and .nojekyll only.
+Publish main / root in Settings > Pages. Relative asset paths support the /Personsal-website/ project URL. Pages is configured to deploy directly from main / root; no custom workflow is required.
