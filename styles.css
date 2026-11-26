@@ -16,3 +16,8 @@
 
 /* Library reference lists */
 .book-card{min-height:0}.book-card>div{min-width:0}.book-intro{max-width:490px;margin:0 0 20px;color:#586d78;font-size:14px;line-height:1.65}.resource-kind{margin:18px 0 8px;color:#47877e;font-size:10px;font-weight:700;letter-spacing:.14em}.resource-list{list-style:none;margin:0;padding:0}.resource-list li{margin:0;padding:10px 0;border-top:1px solid #dce4e7}.resource-list a{color:#173b4b;font-size:14px;font-weight:600;line-height:1.45;text-decoration:underline;text-decoration-color:#91b8b3;text-underline-offset:3px}.resource-list a:hover{color:#267d71}.resource-list small{display:block;margin-top:4px;color:#667983;font-size:11px;line-height:1.5}.library-note{margin:22px 0 0;color:#627681;font-size:12px;line-height:1.6}
+
+
+/* Collapsible library lists */
+.library-details{grid-column:2;margin-top:16px}.library-details summary{display:inline-flex;align-items:center;gap:12px;padding:10px 14px;border:1px solid #aebfc5;color:#163846;background:#fff;font-size:12px;font-weight:600;cursor:pointer;list-style:none;transition:background .2s ease,border-color .2s ease}.library-details summary::-webkit-details-marker{display:none}.library-details summary:after{content:"+";font-size:16px;line-height:1;color:#33867a}.library-details[open] summary:after{content:"−"}.library-details summary:hover{background:#e9f2f1;border-color:#79aaa2}.library-details summary:focus-visible{outline:3px solid #33867a;outline-offset:3px}.library-details-content{padding-top:12px}
+@media(max-width:650px){.library-details{grid-column:2}.library-details summary{padding:10px 12px}}
